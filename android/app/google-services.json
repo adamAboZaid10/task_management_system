@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "76169562986",
+    "project_id": "company-app-udmey",
+    "storage_bucket": "company-app-udmey.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76169562986:android:bb0bd55119a9f7e18a7313",
+        "android_client_info": {
+          "package_name": "com.example.projectcompany"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrDqQYgWW3_G4nUWq07NAf7VJZbZA5-HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
